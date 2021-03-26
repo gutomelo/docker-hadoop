@@ -2,7 +2,7 @@
 
 # Changes
 
-Version 2.0.0 introduces uses wait_for_it script for the cluster startup
+This version is a fork of https://github.com/big-data-europe/docker-hadoop. Three more datanodes have been placed for testing!
 
 # Hadoop Docker
 
